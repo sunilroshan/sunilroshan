@@ -1,8 +1,9 @@
-![MasterHead](https://github.com/user-attachments/assets/41fcc75f-d849-496f-80e8-370d9197c5ee)
-
-<h1 align="center">Hi 👋, I'm Sunil Roshan A</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<h1 align="center"> <img src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="abhi-swami" /> </h1>
+<h1 align="center" ><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Sunil Roshan <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Sunil Roshan; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilroshan&label=Profile%20views&color=0e75b6&style=flat" alt="sunilroshan" /> </p>
