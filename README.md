@@ -1,25 +1,30 @@
-<h1 align="center"> <img src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="abhi-swami" /> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png" alt="abhi-swami" /> </h1>
 <h1 align="center" ><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Sunil Roshan <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Sunil Roshan; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Sunil Roshan; I am a Full-stack developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="sunil" /> </p>
 
 <h2 align="center">
 About me
 
 </h2>
 <p>
-Hello, I'm [Your Name], a [Your Degree] student from [Your College/University], specializing in full-stack web development. 🌟 With a deep love for coding and a natural knack for solving complex problems, I've honed my skills through over 1000 hours of hands-on experience, particularly in JavaScript and React. 💻 My passion and drive shine through in every project I undertake, consistently crafting high-performing, functional websites that exceed expectations. 🚀 Equipped with a sharp eye for detail and an innate ability to identify patterns, 🔍 I ensure optimal performance in every endeavor. My relentless pursuit of knowledge keeps me on the cutting edge of technology, always ready to learn, adapt, and contribute meaningfully to any team. 🌐</p>
+Hello, I'm Sunil Roshan, a Electronics and Communication Engineering student from Sri Krishna College of Technology, specializing in full-stack web development. 🌟 With a deep love for coding and a natural knack for solving complex problems, I've honed my skills through over 1000 hours of hands-on experience, particularly in JavaScript and React. 💻 My passion and drive shine through in every project I undertake, consistently crafting high-performing, functional websites that exceed expectations. 🚀 Equipped with a sharp eye for detail and an innate ability to identify patterns, 🔍 I ensure optimal performance in every endeavor. My relentless pursuit of knowledge keeps me on the cutting edge of technology, always ready to learn, adapt, and contribute meaningfully to any team. 🌐</p>
+
+</br>
+</br>
+
+
 <div display="flex">
  
   <div>
-    <img align="right" alt="Coding" width="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
+">
   </div>
 
 
@@ -44,6 +49,10 @@ Hello, I'm [Your Name], a [Your Degree] student from [Your College/University], 
 <a href="https://auth.geeksforgeeks.org/user/sunilrotf61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunilrotf61" height="30" width="40" /></a>
 </p>
 
+</br>
+</br>
+</br>
+
 <h2 align="center">
  Languages and Tools
 </h2>
@@ -56,10 +65,9 @@ Hello, I'm [Your Name], a [Your Degree] student from [Your College/University], 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  align="center" alt="type script"/>
 <br/>
 <br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
   
 </div>
@@ -71,9 +79,8 @@ Hello, I'm [Your Name], a [Your Degree] student from [Your College/University], 
  </div>
  
  <div align="center"><h3 align="center">Tools</h3> 
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+  
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
@@ -83,14 +90,19 @@ Hello, I'm [Your Name], a [Your Degree] student from [Your College/University], 
      <br />
      <br />
 
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+
  </div>
 </div>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilroshan&show_icons=true&locale=en&layout=compact" alt="sunilroshan" /></p>
+</br>
+</br>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilroshan&show_icons=true&locale=en" alt="sunilroshan" /></p>
+<p> <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilroshan&show_icons=true&locale=en&layout=compact" alt="sunilroshan" /></p>
+</br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilroshan&" alt="sunilroshan" /></p>
+<p>&nbsp;<img align="center"  width="60%" src="https://github-readme-stats.vercel.app/api?username=sunilroshan&show_icons=true&locale=en" alt="sunilroshan" /></p>
+</br>
+
+<p><img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilroshan&" alt="sunilroshan" /></p>
 
