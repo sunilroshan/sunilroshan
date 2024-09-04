@@ -5,8 +5,22 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Sunil Roshan; I am a Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p>
 
+<img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilroshan&label=Profile%20views&color=0e75b6&style=flat" alt="sunilroshan" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi-swami&label=Profile%20views&color=0e75b6&style=flat" alt="sunil" /> </p>
+
+<h2 align="center">
+About me
+
+</h2>
+<p>
+👨‍💻 I am a highly ambitious and self-motivated full-stack web developer with a passion for problem-solving and a deep desire to learn. With over 1000 hours of hands-on experience developing functional websites, I am confident in my ability to deliver high-quality work. 🚀 My expertise in JavaScript and the React framework allows me to approach complex challenges with ease and find creative solutions. 🔍 I have a keen eye for detail and a natural ability to decode patterns, making me an invaluable asset to any team. 💪</p>
+<div display="flex">
+ 
+  <div>
+    <img align="right" alt="Coding" width="400" src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg">
+  </div>
 
 
 
